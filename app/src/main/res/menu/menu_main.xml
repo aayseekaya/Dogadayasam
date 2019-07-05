@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Uye"
+        android:orderInCategory="100"
+        android:title="Uye"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Admin"
+        android:orderInCategory="100"
+        android:title="Admin"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cikis"
+        android:orderInCategory="100"
+        android:title="Çıkış"
+        app:showAsAction="never" />
+</menu>
+
+
+
